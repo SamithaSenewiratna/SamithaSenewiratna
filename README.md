@@ -14,7 +14,7 @@
 ### 🔥 **Tech Stack & Tools**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
 
-<!-- Languages and Frameworks -->
+
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
