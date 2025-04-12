@@ -47,7 +47,7 @@
   
 </div>
 
-<!-- Tools & Version Control -->
+
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -90,9 +90,8 @@ I am motivated by the thrill of **solving problems**, **delivering clean, effici
 Feel free to reach out for collaboration, tech discussions, or just to say hi!  
 💬 **Email**: [samithani17@gmail.com](mailto:samithani17@gmail.com)  
 🔗 **LinkedIn**: [Samitha Senavirathna](https://www.linkedin.com/in/samitha-senavirathna-b748b52b5/)  
-🐦 **Twitter**: [@SamithaDev](https://twitter.com/SamithaDev)  
 🌐 **Portfolio**: [samithadev.com](https://www.samithadev.com)  
 
-🚀 **Let’s build something amazing together!**
+
 
 </div>
