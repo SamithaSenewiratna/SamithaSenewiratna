@@ -87,7 +87,7 @@ I am motivated by the thrill of **solving problems**, **delivering clean, effici
 ---
 
 ### 💬 **Let’s Connect!**
-Feel free to reach out for collaboration, tech discussions, or just to say hi!  
+
 💬 **Email**: [samithani17@gmail.com](mailto:samithani17@gmail.com)  
 🔗 **LinkedIn**: [Samitha Senavirathna](https://www.linkedin.com/in/samitha-senavirathna-b748b52b5/)  
 🌐 **Portfolio**: [samithadev.com](https://www.samithadev.com)  
