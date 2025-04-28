@@ -90,7 +90,6 @@ I am motivated by the thrill of **solving problems**, **delivering clean, effici
 
 💬 **Email**: [samithani17@gmail.com](mailto:samithani17@gmail.com)  
 🔗 **LinkedIn**: [Samitha Senavirathna](https://www.linkedin.com/in/samitha-senavirathna-b748b52b5/)  
-🌐 **Portfolio**: [samithadev.com](https://www.samithadev.com)  
 
 
 
