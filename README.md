@@ -79,12 +79,7 @@ I am motivated by the thrill of **solving problems**, **delivering clean, effici
 
 ---
 
-### 🌟 **Fun Facts**
-- 📚 I’m always reading tech blogs and books—my current read: *"Designing Data-Intensive Applications"* by Martin Kleppmann.
-- 🎨 I enjoy designing mockups and wireframes for apps on **Figma** during my downtime.
-- 🧑‍💻 I regularly attend **local tech meetups** to stay updated with the latest industry trends.
 
----
 
 ### 💬 **Let’s Connect!**
 
