@@ -22,7 +22,7 @@
     src="https://www.coherentsolutions.com/hubfs/ANDLcJmTS6-2640.webp" 
     alt="Header Image" 
     width="100%" 
-    style="height: 300px; object-fit: cover; border-radius: 12px;" />
+    style="height: 250px; object-fit: cover; border-radius: 12px;" />
 </p>
 
 ---
