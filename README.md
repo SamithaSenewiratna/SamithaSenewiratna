@@ -1,18 +1,20 @@
 <div align="center" style="background-color:#f8f8f8; padding: 40px; border-radius: 10px; max-width: 900px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-<p align="center" style="background: linear-gradient(90deg, #ff4500, #00ccff); padding: 10px; border-radius: 8px; display: inline-block;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=11500&duration=4000&color=FFFFFF&width=600&lines=Hello,+I'm+Samitha!" alt="Typing animation"/>
-</p>
 
 
 <!-- Animated Typing Text -->
-<p align="center">
+  <p align="center">
+  <p align="center" style="background: linear-gradient(90deg, #ff4500, #00ccff); padding: 10px; border-radius: 8px; display: inline-block;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=11500&duration=4000&color=FFFFFF&width=600&lines=Hello,+I'm+Samitha" alt="Typing animation"/>
+  </p>
+
+  
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=750&lines=+Full+Stack+Engineer;+Java,+Spring+Boot,+React,+Angular;+AI+Enthusiast!"
     alt="Typing SVG" />
 </p>
 
-
+---
 
 <!-- Header Image / Banner -->
 <p align="center">
@@ -20,7 +22,7 @@
     src="https://www.coherentsolutions.com/hubfs/ANDLcJmTS6-2640.webp" 
     alt="Header Image" 
     width="100%" 
-    style="height: 300px; object-fit: cover;" />
+    style="height: 300px; object-fit: cover; border-radius: 12px;" />
 </p>
 
 ---
