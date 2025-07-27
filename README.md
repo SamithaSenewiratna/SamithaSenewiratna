@@ -1,15 +1,9 @@
-<div align="center" style="background-color:#f8f8f8; padding: 50px; border-radius: 10px; max-width: 900px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+<div align="center" style="background-color:#f8f8f8; padding: 40px; border-radius: 10px; max-width: 900px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=11500&duration=4000&color=FF4500&width=600&lines=Hello,+I'm+Samitha!" alt="Typing animation"/>
+<p align="center" style="background: linear-gradient(90deg, #ff4500, #00ccff); padding: 10px; border-radius: 8px; display: inline-block;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=11500&duration=4000&color=FFFFFF&width=600&lines=Hello,+I'm+Samitha!" alt="Typing animation"/>
 </p>
 
-
-
-<p style="color: #444; font-size: 18px; margin-top: 20px;">  
-    🌟 I create dynamic, scalable, and user-friendly solutions with a focus on **clean code**, **beautiful interfaces**, and **performance**.<br>
-    🚀 I’m passionate about pushing the limits of technology, learning new skills, and staying ahead of trends. Let’s build something amazing together!
-</p>
 
 <!-- Animated Typing Text -->
 <p align="center">
