@@ -1,18 +1,15 @@
+
+---
 <div align="center" style="background-color:#f8f8f8; padding: 40px; border-radius: 10px; max-width: 900px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-
-
-<!-- Animated Typing Text -->
-  <p align="center">
-  <p align="center" style="background: linear-gradient(90deg, #ff4500, #00ccff); padding: 10px; border-radius: 8px; display: inline-block;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=11500&duration=4000&color=FFFFFF&width=600&lines=Hello,+I'm+Samitha" alt="Typing animation"/>
-  </p>
-
-  
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=750&lines=+Full+Stack+Engineer;+Java,+Spring+Boot,+React,+Angular;+AI+Enthusiast!"
-    alt="Typing SVG" />
+<!-- ✨ Typing Animation Section (GitHub Compatible) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=13000&duration=3000&color=F97316&center=true&vCenter=true&width=600&lines=+I'm+Samitha+Senewirathna+" alt="Typing Intro" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=+Full+Stack+Developer;+Spring+Boot+%7C+React+%7C+Angular;+AI+%26+ML+Enthusiast;+Passionate+about+UI%2FUX+and+Clean+Code" alt="Typing Skills" />
+</p>
+
 
 ---
 
