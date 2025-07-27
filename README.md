@@ -1,63 +1,104 @@
 <div align="center" style="background-color:#f8f8f8; padding: 50px; border-radius: 10px; max-width: 900px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-<h1 style="color:#ff6600; font-size: 50px; font-weight: 700;">👋 Hi, I'm <span style="color:#00ccff;">Samitha</span> 🚀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=11500&duration=4000&color=FF4500&width=600&lines=Hello,+I'm+Samitha!" alt="Typing animation"/>
+</p>
 
-<h3 style="color:#33cc33; font-style: italic; font-size: 22px;"> | Creative Softwear Developer | </h3>
+
 
 <p style="color: #444; font-size: 18px; margin-top: 20px;">  
     🌟 I create dynamic, scalable, and user-friendly solutions with a focus on **clean code**, **beautiful interfaces**, and **performance**.<br>
     🚀 I’m passionate about pushing the limits of technology, learning new skills, and staying ahead of trends. Let’s build something amazing together!
 </p>
 
+<!-- Animated Typing Text -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=750&lines=+Full+Stack+Engineer;+Java,+Spring+Boot,+React,+Angular;+AI+Enthusiast!"
+    alt="Typing SVG" />
+</p>
+
+
+
+<!-- Header Image / Banner -->
+<p align="center">
+  <img 
+    src="https://www.coherentsolutions.com/hubfs/ANDLcJmTS6-2640.webp" 
+    alt="Header Image" 
+    width="100%" 
+    style="height: 300px; object-fit: cover;" />
+</p>
+
 ---
 
-### 🔥 **Tech Stack & Tools**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+## 🛠 Tech Stack & Tools
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 30px 0;">
 
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
-    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
-    <img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="64" width="64" />
+
+  <!-- Frameworks & Libraries -->
+
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="64" width="64" />
+   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" height="64" width="64" />
+   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="64" width="64" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="64" width="64" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="64" width="64" />
+
+  <!-- Testing -->
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="64" width="64" />
+
+  <!-- Tools & Editors -->
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="64" width="64" />
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=babel" alt="Babel" height="64" width="64" />
+
+  <!-- Design & Prototyping -->
+  <img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" height="64" width="64" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="64" width="64" />
+
 </div>
 
-<!-- Frontend Tools -->
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-    <img src ="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-    <img src ="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
-    <img src ="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-    
-</div>
 
-<!-- Databases & Cloud -->
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services">
-    <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  
-</div>
-
-
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    <img src ="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-    <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-   
-    
-</div>
 </div>
 
 ---
