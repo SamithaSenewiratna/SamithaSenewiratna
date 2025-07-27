@@ -99,6 +99,30 @@
 
 ---
 
+
+
+<!-- GitHub Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=samithasenewiratna&theme=onedark&margin-w=10&margin-h=10&row=1" alt="Trophies for samithasenewiratna" />
+  </a>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithasenewiratna&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samithasenewiratna&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+
+---
+
+
 ### 🧠 **What Drives Me?**
 
 I am motivated by the thrill of **solving problems**, **delivering clean, efficient code**, and creating **exceptional user experiences**. 
