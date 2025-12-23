@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=+Full+Stack+Developer;+Spring+Boot+%7C+React+%7C+Angular;+AI+%26+ML+Enthusiast;+Passionate+about+UI%2FUX+and+Clean+Code" alt="Typing Skills" />
 </p>
 
-
 ---
 
 <!-- Header Image / Banner -->
@@ -96,19 +95,28 @@
 
 ---
 
-
-
 <!-- GitHub Trophy -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=samithasenewiratna&theme=onedark&margin-w=10&margin-h=10&row=1" alt="Trophies for samithasenewiratna" />
   </a>
-</p>
+</p> -->
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithasenewiratna&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+
+## 🔥 GitHub Stats  
+
+<table align="center">
+<tr>
+<td>
+ <img src="https://github-readme-stats.vercel.app/api?username=samithasenewiratna&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+
+  
+</td>
+<td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithasenewiratna&theme=radical&background=0d1117&ring=00F7FF&fire=FF9D00&currStreakLabel=FF9D00" />
+</td>
+</tr>
+</table>
 
 <!-- Top Languages -->
 <p align="center">
@@ -139,11 +147,42 @@ I am motivated by the thrill of **solving problems**, **delivering clean, effici
 
 
 
-### 💬 **Let’s Connect!**
+### 💬 Let’s Connect!
 
-💬 **Email**: [samithani17@gmail.com](mailto:samithani17@gmail.com)  
-🔗 **LinkedIn**: [Samitha Senavirathna](https://www.linkedin.com/in/samitha-senavirathna-b748b52b5/)  
+<p align="center">
 
+<!-- Email -->
+<a href="mailto:samithani17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-samithani17@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/samitha-senavirathna-b748b52b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Samitha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/samithasenewiratna">
+  <img src="https://img.shields.io/badge/GitHub-samithasenewiratna-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<!-- Portfolio -->
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+</a>
+
+
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/yourid">
+  <img src="https://img.shields.io/badge/StackOverflow-Samitha-FE7A16?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow"/>
+</a>
+
+<!-- Medium -->
+<a href="https://medium.com/@yourusername">
+  <img src="https://img.shields.io/badge/Medium-Samitha-black?style=for-the-badge&logo=medium" alt="Medium"/>
+</a>
+
+</p>
 
 
 </div>
