@@ -3,13 +3,14 @@
 <div align="center" style="background-color:#f8f8f8; padding: 40px; border-radius: 10px; max-width: 900px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
 <!-- ✨ Typing Animation Section (GitHub Compatible) -->
-<p align="center">
+<p align="center" style="margin-bottom: 0px; margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=13000&duration=3000&center=true&vCenter=true&width=600&lines=I'm+Samitha+Senewirathna&gradientColors=4B0082,9D00FF" alt="Typing Intro" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: -50; margin-bottom: 5px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=+Full+Stack+Developer;+Spring+Boot+%7C+React+%7C+Angular;+AI+%26+ML+Enthusiast;+Passionate+about+UI%2FUX+and+Clean+Code" alt="Typing Skills" />
 </p>
+
 
 ---
 
