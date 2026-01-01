@@ -105,20 +105,13 @@
 </p> -->
 
 
+
 ## 🔥 GitHub Stats  
 
-<table align="center">
-<tr>
-<td>
- <img src="https://github-readme-stats.vercel.app/api?username=samithasenewiratna&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+| GitHub Stats | Streak Stats |
+|-------------|--------------|
+| ![](https://github-readme-stats.vercel.app/api?username=samithasenewiratna&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=samithasenewiratna&theme=radical) |
 
-  
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithasenewiratna&theme=radical&background=0d1117&ring=00F7FF&fire=FF9D00&currStreakLabel=FF9D00" />
-</td>
-</tr>
-</table>
 
 <!-- Top Languages -->
 <p align="center">
