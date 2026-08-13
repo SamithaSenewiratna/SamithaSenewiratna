@@ -108,15 +108,28 @@
 
 ## 🔥 GitHub Stats  
 
-| GitHub Stats | Streak Stats |
-|-------------|--------------|
-| ![](https://github-readme-stats.vercel.app/api?username=samithasenewiratna&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=samithasenewiratna&theme=radical) |
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamithaSenewiratna&theme=tokyonight&hide_border=true&disable_animations=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamithaSenewiratna&theme=tokyonight&hide_border=true&disable_animations=true&layout=compact&langs_count=8" />
+
+<br/>
+
+<img height="180" src="https://streak-stats.demolab.com/?user=SamithaSenewiratna&theme=tokyonight&hide_border=true&disable_animations=true" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamithaSenewiratna&theme=tokyo-night&hide_border=true&custom_title=Commit%20Activity&area=true" />
+
+</div>
+
+<br/>
 
 
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samithasenewiratna&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamithaSenewiratna&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p> -->
 
 
 
