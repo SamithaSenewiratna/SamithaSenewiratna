@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools (Full Stack Dev)
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 30px 0;">
 
@@ -93,7 +93,69 @@
 </div>
 
 
+## 🛠 Tech Stack & Tools (AI & ML)
+
 </div>
+
+
+<p align="left">
+
+  <!-- Programming -->
+  <img src="https://cdn.simpleicons.org/python" alt="Python" height="64" width="64" />
+
+  <!-- Data Science -->
+  <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" height="64" width="64" />
+  <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" height="64" width="64" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="64" width="64" />
+ <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="64" width="64" />
+
+  <!-- Python Environment -->
+
+  <!-- Machine Learning -->
+  <img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" height="64" width="64" />
+
+  <!-- Deep Learning -->
+  <img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" height="64" width="64" />
+  <img src="https://cdn.simpleicons.org/keras" alt="Keras" height="64" width="64" />
+  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" height="64" width="64" />
+
+  <!-- Computer Vision -->
+  <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" height="64" width="64" />
+
+  <!-- NLP -->
+  <img src="https://cdn.simpleicons.org/spacy" alt="spaCy" height="64" width="64" />
+
+  <!-- Generative AI -->
+  <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" height="64" width="64" />
+
+ <!-- Agentic AI -->
+<img src="https://cdn.simpleicons.org/langchain" alt="LangChain" height="64" width="64" />
+
+<!-- AI / ML Development -->
+<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" height="64" width="64" />
+<img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" height="64" width="64" />
+
+<!-- Local LLM -->
+<img src="https://ollama.com/public/ollama.png" alt="Ollama" height="64" width="64" />
+
+<!-- Vector & Graph Databases -->
+
+<img src="https://cdn.simpleicons.org/qdrant" alt="Qdrant" height="64" width="64" />
+<img src="https://cdn.simpleicons.org/neo4j" alt="Neo4j" height="64" width="64" />
+<img src="https://cdn.simpleicons.org/arangodb" alt="ArangoDB" height="64" width="64" />
+
+
+<!-- Agentic AI & Workflow Automation -->
+<img src="https://avatars.githubusercontent.com/u/170677778?s=200&v=4"
+     alt="CrewAI" height="64" width="64" />
+<img src="https://cdn.simpleicons.org/langflow"
+     alt="Langflow" height="64" width="64" />
+<img src="https://cdn.simpleicons.org/n8n"
+     alt="n8n" height="64" width="64" />
+<img src="https://avatars.githubusercontent.com/u/140942558?s=200&v=4"
+     alt="Agno AI" height="64" width="64" />
+
+</p>
 
 ---
 
