@@ -8,9 +8,8 @@
 </p>
 
 <p align="center" style="margin-top: -50; margin-bottom: 5px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=+Full+Stack+Developer;+Spring+Boot+%7C+React+%7C+Angular;+AI+%26+ML+Enthusiast;+Passionate+about+UI%2FUX+and+Clean+Code" alt="Typing Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Software+Engineering;Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+Agentic+AI;Spring+Boot+%7C+React+%7C+Angular;Passionate+about+UI%2FUX+and+Clean+Code" alt="Typing Skills" />
 </p>
-
 
 ---
 
